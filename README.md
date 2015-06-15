@@ -17,3 +17,6 @@
 
 1. 服务端配置：打开`rpc-sample-server`模块中的`rpc.properties`文件，可配置`ZooKeeper 地址`与`RPC 服务器地址`。
 2. 客户端配置：打开`rpc-sample-app`模块中的`rpc.properties`文件，可配置`ZooKeeper 地址`。
+
+## 原文地址
+http://my.oschina.net/huangyong/blog/361751
